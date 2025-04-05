@@ -1,0 +1,4 @@
+.venv/
+.vscode/
+claude_config.json
+requirements.txt
