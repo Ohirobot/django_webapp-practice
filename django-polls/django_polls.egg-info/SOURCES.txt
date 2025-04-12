@@ -2,6 +2,12 @@ LICENSE
 MANIFEST.in
 README.rst
 pyproject.toml
+django-polls/static/polls/style.css
+django-polls/static/polls/images/background.PNG
+django-polls/templates/polls/detail.html
+django-polls/templates/polls/index.html
+django-polls/templates/polls/index.htmlll
+django-polls/templates/polls/results.html
 django_polls.egg-info/PKG-INFO
 django_polls.egg-info/SOURCES.txt
 django_polls.egg-info/dependency_links.txt
